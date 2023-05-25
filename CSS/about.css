@@ -28,14 +28,16 @@ h2 {
 }
 
 .row {
-  margin-bottom: 3%;
+  margin-bottom: 5%;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
 .column {
   float: left;
   margin-top: 1%;
   margin-left: 11%;
-  width: 33%;
+  width: 33% inherit;
   margin-bottom: 16px;
   padding: 0 8px;
 }

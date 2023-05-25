@@ -33,8 +33,8 @@ body {
   box-shadow: 5px 5px 50px #A75D5D, inset 5px 5px 12px #FFC3A1;
 }
 
-.column {
-  width: inherit;
+.columns {
+  margin-left: 3%;
 }
 
 /* Typography / Links
