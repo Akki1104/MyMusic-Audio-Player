@@ -172,7 +172,7 @@ body {
   margin: 0 5px 30px;
   padding: 12px;
   text-decoration: none;
-  transition: background 0.3s ease;
+  transition: background 0.1s ease;
 }
 
 #tracks a:hover,
@@ -269,3 +269,17 @@ footer p {
     width: 100%;
   }
 }
+
+@media screen and (max-width: 450px) {
+  #tracks{
+    margin-top: 10%;
+  }
+
+  #mIcon{
+    margin-left: 25%;
+    }
+  #nowPlay span#npTitle {
+    margin-left: 5%;
+    width: 100%;
+  }
+ }
